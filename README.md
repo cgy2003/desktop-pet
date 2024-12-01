@@ -4,7 +4,7 @@
 
 #### 宠物主体
 
-![image-20240317163534636](.\resources\png\image-20240317163534636.png)
+![image-20240317163534636](resources\png\image-20240317163534636.png)
 
 1. **宠物互动功能：**
 
@@ -25,7 +25,7 @@
 
   -  考虑到电脑工作者往往会在静音情况下工作，因而到了设定的时间会进行弹框提醒而不是闹铃
 
-![image-20240317163442252](.\resources\png\image-20240317163442252.png)
+![image-20240317163442252](resources\png\image-20240317163442252.png)
 
 #### 聊天室
 
@@ -34,7 +34,7 @@
 - 需要有一个良好的聊天交互界面
 - 宠物可以通过自然语言处理技术理解用户的意思并做出合理的回答
 
-![image-20240317163714371](.\resources\png\image-20240317163714371.png)
+![image-20240317163714371](resources\png\image-20240317163714371.png)
 
 #### 闹钟设置界面
 
@@ -45,7 +45,7 @@
 - 删除指定时间的闹钟
 - 当前时间的显示
 
-![image-20240317163734013](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240317163734013.png)
+![image-20240317163734013](resources\png\image-20240317163734013.png)
 
 ## 文件结构
 
@@ -83,11 +83,11 @@ Desktop Pet
 	
 	-  环境准备及运行
 	
-	  ```shell
+	```
 	  conda create -n desktop_pet python=3.8
 	  conda activate desktop_pet
 	  pip install -r requirements
 	  python pet.py
-	  ```
+	```
 	
-	  
+	
