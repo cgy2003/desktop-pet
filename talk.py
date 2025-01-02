@@ -52,7 +52,7 @@ background: white;
 """
 client = OpenAI(
     # defaults to os.environ.get("OPENAI_API_KEY")
-    api_key="sk-avTt6wtpoCSB2tFW0byL9FNGQkT7LvD0wEMDm6DTV0HysLXO",
+    api_key="",
     base_url="https://api.chatanywhere.tech/v1"
 )
 
